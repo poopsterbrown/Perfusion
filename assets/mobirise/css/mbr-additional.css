@@ -1974,6 +1974,48 @@ a {
 .cid-tStWKNQaBG .icon-text {
   color: #ffffff;
 }
+.cid-tT4dkUUCUS {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-tT4dkUUCUS .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tT4dkUUCUS .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tT4dkUUCUS .mbr-iconfont {
+  font-size: 1.4rem !important;
+  font-family: 'Moririse2' !important;
+  color: #5942e8;
+  margin-left: 1rem;
+}
+.cid-tT4dkUUCUS .panel-group {
+  border: none;
+}
+.cid-tT4dkUUCUS .panel-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.cid-tT4dkUUCUS .panel-body,
+.cid-tT4dkUUCUS .card-header {
+  padding: 1rem 0;
+}
+.cid-tT4dkUUCUS .panel-title-edit {
+  color: #000000;
+}
+.cid-tT4dkUUCUS .card .card-header {
+  background-color: transparent;
+  margin-bottom: 0;
+}
 .cid-tSoOY7vqdp .navbar-dropdown {
   position: relative !important;
 }
